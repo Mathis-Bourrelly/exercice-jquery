@@ -1,7 +1,5 @@
 
 $(document).ready(function (){
-    $('.btn').on( 'click', function () {
-        alert("Quelqu'un a cliqué sur le bouton !")
-        $('body').css(background )
+    //$("li:eq(0)").hide();
     });
 });
